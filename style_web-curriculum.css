@@ -59,7 +59,7 @@ thead{
     height: 4px;
     left: 50%;
     bottom: -5px;
-    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(135, 161, 157));
+    background: black;
     transform: translateX(-50%);
 }
 .container{
